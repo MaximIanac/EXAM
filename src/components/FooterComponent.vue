@@ -8,9 +8,7 @@
   import { defineProps } from 'vue'
   
   const props = defineProps({
-    fact: {
-      type: String,
-    }
+    fact: {}
   })
   </script>
   
